@@ -47,4 +47,4 @@ $testArray = array('proto', 'deyt', 'trit', 'tet', 'pempt', 'ekto');
 get_staircase_values_from_txt($testArray, get_staircase_numbers_of_array($testArray));
 
 
-/* test sync with github renamed */
+/* test sync with github commit test */
